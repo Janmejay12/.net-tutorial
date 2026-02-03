@@ -1,0 +1,14 @@
+C:\Product-Mania\product-mania.DAL\bin\Debug\net10.0\product-mania.DAL.deps.json
+C:\Product-Mania\product-mania.DAL\bin\Debug\net10.0\product-mania.DAL.runtimeconfig.json
+C:\Product-Mania\product-mania.DAL\bin\Debug\net10.0\product-mania.DAL.dll
+C:\Product-Mania\product-mania.DAL\bin\Debug\net10.0\product-mania.DAL.pdb
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\product-mania.DAL.csproj.AssemblyReference.cache
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\product-mania.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\product-mania.DAL.AssemblyInfoInputs.cache
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\product-mania.DAL.AssemblyInfo.cs
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\product-mania.DAL.csproj.CoreCompileInputs.cache
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\product-mania.DAL.dll
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\refint\product-mania.DAL.dll
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\product-mania.DAL.pdb
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\product-mania.DAL.genruntimeconfig.cache
+C:\Product-Mania\product-mania.DAL\obj\Debug\net10.0\ref\product-mania.DAL.dll

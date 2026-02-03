@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="product-mania.BLL/product-mania.BLL.csproj" />
+  <Project Path="product-mania.DAL/product-mania.DAL.csproj" />
+  <Project Path="Product-Mania/Product-Mania.csproj" />
+</Solution>
