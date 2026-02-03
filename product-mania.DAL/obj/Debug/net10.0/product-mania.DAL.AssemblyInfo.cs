@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("product-mania.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23b4c705c5cc6743a36b531816e6882d73bd939d")]
 [assembly: System.Reflection.AssemblyProductAttribute("product-mania.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("product-mania.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

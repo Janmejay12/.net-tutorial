@@ -12,17 +12,22 @@ namespace Product_Mania.Controllers
          private readonly IProductService productService;
         public ProductController(IProductService productService)
         {
-            productService = productService;
+            this.productService = productService;
         }
-        public async Task<IActionResult> IndexAsync()
+        public async Task<IActionResult> Index()
         {
             var products = await productService.GetAllProductsAsync();
             return View(products);
         }
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> CreateProduct(Product product)
+        public async Task<IActionResult> Create(Product product)
         {
             if (ModelState.IsValid)
             {

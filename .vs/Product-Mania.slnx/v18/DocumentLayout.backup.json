@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\Product-Mania\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBFDDFDE-AC81-4854-B10B-25E167EECB9B}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DBFDDFDE-AC81-4854-B10B-25E167EECB9B}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\middleware\\requestloggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\middleware\\requestloggermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBFDDFDE-AC81-4854-B10B-25E167EECB9B}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DBFDDFDE-AC81-4854-B10B-25E167EECB9B}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBFDDFDE-AC81-4854-B10B-25E167EECB9B}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBFDDFDE-AC81-4854-B10B-25E167EECB9B}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{765AEDB7-710C-4663-B665-572FF3635434}|product-mania.DAL\\product-mania.DAL.csproj|c:\\product-mania\\product-mania.dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{765AEDB7-710C-4663-B665-572FF3635434}|product-mania.DAL\\product-mania.DAL.csproj|solutionrelative:product-mania.dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{765AEDB7-710C-4663-B665-572FF3635434}|product-mania.DAL\\product-mania.DAL.csproj|c:\\product-mania\\product-mania.dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{765AEDB7-710C-4663-B665-572FF3635434}|product-mania.DAL\\product-mania.DAL.csproj|solutionrelative:product-mania.dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\product-mania.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\product-mania.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{765AEDB7-710C-4663-B665-572FF3635434}|product-mania.DAL\\product-mania.DAL.csproj|c:\\product-mania\\product-mania.dal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{765AEDB7-710C-4663-B665-572FF3635434}|product-mania.DAL\\product-mania.DAL.csproj|solutionrelative:product-mania.dal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40D9ED58-B01E-4C5A-8722-FEF24C2C57D0}|product-mania.BLL\\product-mania.BLL.csproj|c:\\product-mania\\product-mania.bll\\product-mania.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{40D9ED58-B01E-4C5A-8722-FEF24C2C57D0}|product-mania.BLL\\product-mania.BLL.csproj|solutionrelative:product-mania.bll\\product-mania.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E5ECAFF-191C-1AEA-323A-E97F079C861A}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBFDDFDE-AC81-4854-B10B-25E167EECB9B}|Product-Mania\\Product-Mania.csproj|c:\\product-mania\\product-mania\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBFDDFDE-AC81-4854-B10B-25E167EECB9B}|Product-Mania\\Product-Mania.csproj|solutionrelative:product-mania\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{163C9C4C-1218-D212-04E2-2DE177CE2934}|product-mania.DAL\\product-mania.DAL.csproj|c:\\product-mania\\product-mania.dal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C9C4C-1218-D212-04E2-2DE177CE2934}|product-mania.DAL\\product-mania.DAL.csproj|solutionrelative:product-mania.dal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40D9ED58-B01E-4C5A-8722-FEF24C2C57D0}|product-mania.BLL\\product-mania.BLL.csproj|c:\\product-mania\\product-mania.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D9ED58-B01E-4C5A-8722-FEF24C2C57D0}|product-mania.BLL\\product-mania.BLL.csproj|solutionrelative:product-mania.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{163C9C4C-1218-D212-04E2-2DE177CE2934}|product-mania.DAL\\product-mania.DAL.csproj|c:\\product-mania\\product-mania.dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C9C4C-1218-D212-04E2-2DE177CE2934}|product-mania.DAL\\product-mania.DAL.csproj|solutionrelative:product-mania.dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163C9C4C-1218-D212-04E2-2DE177CE2934}|product-mania.DAL\\product-mania.DAL.csproj|c:\\product-mania\\product-mania.dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C9C4C-1218-D212-04E2-2DE177CE2934}|product-mania.DAL\\product-mania.DAL.csproj|solutionrelative:product-mania.dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9925884-EAD4-9BF2-CBBE-7D9978CDA227}|product-mania.BLL\\product-mania.BLL.csproj|c:\\product-mania\\product-mania.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9925884-EAD4-9BF2-CBBE-7D9978CDA227}|product-mania.BLL\\product-mania.BLL.csproj|solutionrelative:product-mania.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,12 +59,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RequestLoggerMiddleware.cs",
+              "DocumentMoniker": "C:\\Product-Mania\\Product-Mania\\Middleware\\RequestLoggerMiddleware.cs",
+              "RelativeDocumentMoniker": "Product-Mania\\Middleware\\RequestLoggerMiddleware.cs",
+              "ToolTip": "C:\\Product-Mania\\Product-Mania\\Middleware\\RequestLoggerMiddleware.cs*",
+              "RelativeToolTip": "Product-Mania\\Middleware\\RequestLoggerMiddleware.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:53:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Product-Mania\\Product-Mania\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Product-Mania\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Product-Mania\\Product-Mania\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Product-Mania\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-03T13:07:18.772Z",
               "EditorCaption": ""
@@ -64,45 +85,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Product-Mania\\Product-Mania\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Product-Mania\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Product-Mania\\Product-Mania\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Product-Mania\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T13:01:56.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "product-mania.BLL",
-              "DocumentMoniker": "C:\\Product-Mania\\product-mania.BLL\\product-mania.BLL.csproj",
-              "RelativeDocumentMoniker": "product-mania.BLL\\product-mania.BLL.csproj",
-              "ToolTip": "C:\\Product-Mania\\product-mania.BLL\\product-mania.BLL.csproj",
-              "RelativeToolTip": "product-mania.BLL\\product-mania.BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-03T11:41:14.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Product-Mania\\Product-Mania\\Program.cs",
               "RelativeDocumentMoniker": "Product-Mania\\Program.cs",
               "ToolTip": "C:\\Product-Mania\\Product-Mania\\Program.cs",
               "RelativeToolTip": "Product-Mania\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T11:07:07.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Product-Mania\\product-mania.DAL\\ProductRepository.cs",
               "RelativeDocumentMoniker": "product-mania.DAL\\ProductRepository.cs",
@@ -110,12 +105,11 @@
               "RelativeToolTip": "product-mania.DAL\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:19:58.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T10:19:58.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "DBContext.cs",
               "DocumentMoniker": "C:\\Product-Mania\\product-mania.DAL\\DBContext.cs",
               "RelativeDocumentMoniker": "product-mania.DAL\\DBContext.cs",
@@ -123,12 +117,62 @@
               "RelativeToolTip": "product-mania.DAL\\DBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:18:22.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T10:18:22.177Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Product-Mania\\Product-Mania\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product-Mania\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Product-Mania\\Product-Mania\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product-Mania\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:22:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Product-Mania\\Product-Mania\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product-Mania\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Product-Mania\\Product-Mania\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Product-Mania\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T13:01:56.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product-Mania",
+              "DocumentMoniker": "C:\\Product-Mania\\Product-Mania\\Product-Mania.csproj",
+              "RelativeDocumentMoniker": "Product-Mania\\Product-Mania.csproj",
+              "ToolTip": "C:\\Product-Mania\\Product-Mania\\Product-Mania.csproj",
+              "RelativeToolTip": "Product-Mania\\Product-Mania.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T16:30:14.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Product-Mania\\Product-Mania\\appsettings.json",
+              "RelativeDocumentMoniker": "Product-Mania\\appsettings.json",
+              "ToolTip": "C:\\Product-Mania\\Product-Mania\\appsettings.json",
+              "RelativeToolTip": "Product-Mania\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T16:18:54.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Product-Mania\\product-mania.DAL\\Product.cs",
               "RelativeDocumentMoniker": "product-mania.DAL\\Product.cs",
@@ -136,25 +180,11 @@
               "RelativeToolTip": "product-mania.DAL\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T09:17:04.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T09:17:04.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Product-Mania\\Product-Mania\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Product-Mania\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Product-Mania\\Product-Mania\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Product-Mania\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAYwDAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T11:22:39.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Product-Mania\\product-mania.BLL\\ProductService.cs",
               "RelativeDocumentMoniker": "product-mania.BLL\\ProductService.cs",
@@ -162,8 +192,7 @@
               "RelativeToolTip": "product-mania.BLL\\ProductService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T09:15:54.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T09:15:54.229Z"
             }
           ]
         }

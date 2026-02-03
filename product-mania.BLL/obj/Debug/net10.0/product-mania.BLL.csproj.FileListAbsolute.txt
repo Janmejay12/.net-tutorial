@@ -8,6 +8,7 @@ C:\Product-Mania\product-mania.BLL\obj\Debug\net10.0\product-mania.BLL.Generated
 C:\Product-Mania\product-mania.BLL\obj\Debug\net10.0\product-mania.BLL.AssemblyInfoInputs.cache
 C:\Product-Mania\product-mania.BLL\obj\Debug\net10.0\product-mania.BLL.AssemblyInfo.cs
 C:\Product-Mania\product-mania.BLL\obj\Debug\net10.0\product-mania.BLL.csproj.CoreCompileInputs.cache
+C:\Product-Mania\product-mania.BLL\obj\Debug\net10.0\product-mania.BLL.sourcelink.json
 C:\Product-Mania\product-mania.BLL\obj\Debug\net10.0\product-.EFE85031.Up2Date
 C:\Product-Mania\product-mania.BLL\obj\Debug\net10.0\product-mania.BLL.dll
 C:\Product-Mania\product-mania.BLL\obj\Debug\net10.0\refint\product-mania.BLL.dll
